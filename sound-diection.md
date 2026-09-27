@@ -1,0 +1,3 @@
+- Music: epic retro synth space battle loop, medium energy
+- SFX: explosion (generated), upgrade chime (generated), laser shots procedural WebAudio
+- Unlock audio on first tap; mute button top-right

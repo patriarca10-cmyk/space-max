@@ -1,0 +1,5 @@
+- Detailed pixel art, dark fantasy-RPG UI vibe transplanted to space
+- Palette: deep navy/near-black, gold ornate borders, royal blue, crimson, purple magic glows
+- Soft rim lighting, rich saturated accents
+- Subjects: player starfighter (silver/gold/blue), three selectable hangar ships (blue interceptor, orange shielded battleship, red attack fighter), alien ship (purple), drone (red eye), living asteroid, boss mothership, space background
+- Sprites top-down, facing up, clean edges
